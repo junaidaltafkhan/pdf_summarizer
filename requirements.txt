@@ -1,5 +1,5 @@
-streamlit
-PyMuPDF
-python-dotenv
-tqdm
-google-generativeai
+streamlit>=1.20.0
+PyMuPDF>=1.22.0
+python-dotenv>=1.0.0
+tqdm>=4.64.0
+google-genai>=0.18.0
